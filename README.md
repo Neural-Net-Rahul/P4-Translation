@@ -1,4 +1,4 @@
-# P4-Translation from english to french
+# Translation from english to french
 
 Deployment : https://huggingface.co/spaces/neural-net-rahul/Translation_from_english_to_french
 
